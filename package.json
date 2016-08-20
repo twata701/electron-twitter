@@ -2,5 +2,8 @@
   "private": true,
   "devDependencies": {
     "electron-prebuilt": "1.2.8"
+  },
+  "scripts": {
+    "start": "electron src"
   }
 }

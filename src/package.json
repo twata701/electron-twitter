@@ -9,5 +9,6 @@
     "react": "15.1.0",
     "react-dom": "15.1.0",
     "twit": "2.2.4"
-  }
+  },
+  "main": "app/javascripts/main/main.js"
 }
